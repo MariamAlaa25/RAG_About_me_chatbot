@@ -23,7 +23,6 @@ RAG/
 ├── chroma.db/
 ├── requirements.txt
 └── README.md
-
 ## Output Example
 ![Alt text](example.png)
 
