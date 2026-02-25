@@ -14,7 +14,7 @@ Text File → Section Splitter → Embeddings → Chroma Vector Store
 User Query → Retriever → Prompt Template → LLM → Answer
 
 ## Project Structure 
-
+```
 RAG/
 ├── chatbot.py
 ├── app.py
@@ -23,6 +23,7 @@ RAG/
 ├── chroma.db/
 ├── requirements.txt
 └── README.md
+```
 ## Output Example
 ![Alt text](example.png)
 
