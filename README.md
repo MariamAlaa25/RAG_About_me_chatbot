@@ -16,13 +16,13 @@ User Query → Retriever → Prompt Template → LLM → Answer
 ## Project Structure 
 
 RAG/
-│── chatbot.py
-│── app.py
-│── Mariam.txt   
-│── app.env.example
-│── chroma.db/
-│── requirements.txt
-│── README.md
+├── chatbot.py
+├── app.py
+├── Mariam.txt
+├── app.env.example
+├── chroma.db/
+├── requirements.txt
+└── README.md
 
 ## Output Example
 ![Alt text](example.png)
