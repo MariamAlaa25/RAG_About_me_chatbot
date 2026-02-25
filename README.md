@@ -1,4 +1,5 @@
-## A Retrieval-Augmented Generation (RAG) chatbot that answers questions about me from txt file using LangChain, Chroma vector database, and OpenRouter LLM.
+## About_me_chatbot
+A Retrieval-Augmented Generation (RAG) chatbot that answers questions about me from txt file using LangChain, Chroma vector database, and OpenRouter LLM.
 
 ## Overview
 The system:
