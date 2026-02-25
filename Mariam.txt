@@ -1,0 +1,116 @@
+
+Mariam Alaa Elshafey
+Alexandria, Egypt
+---
+
+ABOUT ME
+
+I am a Computer and Communications Engineering student at Alexandria University with a strong interest in Artificial Intelligence, Machine Learning, and software development. I enjoy building intelligent systems that solve real-world problems and improve user experience.
+
+Through internships, competitions, and projects, I have developed solid technical skills in programming, data analysis, and deep learning. I am particularly interested in AI-powered applications, web development, and computer vision systems.
+
+I am a fast learner, enjoy problem solving, and work well in both team environments and independent settings. I am always seeking opportunities to expand my technical knowledge and contribute to impactful projects.
+
+---
+
+EDUCATION
+
+Bachelor’s in Computer and Communications Engineering
+Faculty of Engineering, Alexandria University
+Expected Graduation: July 2025
+
+Secondary School (American Diploma)
+Delta American Schools
+Graduated: May 2020
+
+---
+
+EXPERIENCE
+
+Coding Instructor – DEMI Summer Program, iSchool (July–August 2024)
+
+* Taught Python programming to children and simplified complex concepts to make them engaging and accessible.
+
+AI Trainee – We Telecom (September 2023)
+
+* Implemented supervised and unsupervised machine learning models.
+* Learned deep learning techniques including ANN, CNN, data augmentation, and image segmentation.
+
+Summer Intern – GASCO (July 2023)
+
+* Studied SCADA systems and industrial control systems.
+
+Summer Intern – GASCO (August 2022)
+
+* Learned about safety measures in engineering environments.
+
+---
+
+PROJECTS
+
+Se7a w Laza (Graduation Project)
+
+* Developed a recipe website using React and Laravel.
+* Built an AI-powered chatbot for recipe generation and a dietary assistant for chronic conditions using RAG and agent-based refinement.
+
+Library System
+
+* Built a library management system using React and Node.js to manage books and members.
+
+Face Detection and Recognition System
+
+* Developed a real-time face recognition system using CNNs and transfer learning on the Pins FR dataset.
+* Used InceptionV3 for embeddings and cosine similarity for identification.
+
+Car Rental System
+
+* Developed a web-based car rental system using PHP, HTML, CSS, and MySQL.
+
+Circus World Game
+
+* Developed a Java-based game applying OOP principles and design patterns.
+
+---
+
+TECHNICAL SKILLS
+
+Programming Languages:
+C, C++, Python, Java, Go, SQL, HTML, CSS, JavaScript
+
+Specialized Skills:
+Machine Learning, Deep Learning, Data Analysis (Pandas, NumPy, Matplotlib)
+
+---
+
+COMPETITIONS
+
+Women Hackathon – Valeo (July 2024)
+
+* Learned pitching, business modeling, prototyping, and problem solving.
+
+ECPC Programming Contest (August 2023)
+
+* Strengthened problem-solving skills using C++.
+
+---
+
+EXTRACURRICULAR ACTIVITIES
+
+IEEE – Activities Committee & Data Analysis Team (Feb 2025 – Dec 2025)
+
+* Organized events and analyzed feedback data to improve future activities.
+
+---
+
+LANGUAGES
+
+English: Fluent
+German: A2 (Currently learning)
+
+---
+
+HOBBIES
+
+* Swimming
+* Reading
+* Painting
