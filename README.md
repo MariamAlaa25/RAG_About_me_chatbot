@@ -33,7 +33,7 @@ RAG/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/rag-chatbot.git
+git clone https://github.com/MariamAlaa25/RAG_About_me_chatbot.git
 cd rag-chatbot
 
 2.Create a virtual environment:
